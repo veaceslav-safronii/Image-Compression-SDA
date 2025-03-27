@@ -1,9 +1,6 @@
-SAFRONII VEACESLAV 315CD
-Tema 2 - Arbori cuarternari
-Teste 80/80
-Bonus 20
+# Tema 2 - Arbori cuarternari
 
-Task 1:
+## Task 1:
 *   Primim ca input un fisier tip PPM, citim primele 3 linii in format text,
 	si retinem dimensiunea imaginii, dupa care citim in format binar,
 	intr-o matrice de pixeli, valorile RGB, ale fiecarui pixel.
@@ -39,7 +36,7 @@ Task 1:
 	de tip text.
 
 
-Task 2:
+## Task 2:
 *	Se parcurge arborele cuarternar pe niveluri, folosind o coada.
 	Se adauga radacina in coada, se scrie dimensiunea imaginii
 	in fisierul binar, dupa care cu un loop, ce se termina cand
@@ -51,7 +48,7 @@ Task 2:
 	Astfel este realizata compresia imaginii si este creat fisierul comprimat.
 
 
-Task 3:
+## Task 3:
 * 	Se parcurge fisierul comprimat, fiind citita dimensiunea imaginii,
 	dupa care este construit in paralel arborele cuarternar,
 	se citeste tipul nodului.
